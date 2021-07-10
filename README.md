@@ -1,2 +1,0 @@
-# madhavSHOPIFY
-shopify
